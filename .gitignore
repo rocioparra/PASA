@@ -10,4 +10,4 @@
 *.out
 
 # debugging, project config
-lab1\Src\.idea\
+lab1/Src/.idea/
